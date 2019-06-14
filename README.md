@@ -1,4 +1,4 @@
-# OnlineNewsPopularity
+# Online News Popularity
 
 The data set for the analysis is taken from the UCI repository.
 Dataset : https://archive.ics.uci.edu/ml/datasets/online+news+popularity
